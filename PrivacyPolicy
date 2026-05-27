@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy – Tenaris Silcotub Taxi</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8fafc; color: #1e293b; padding: 2rem 1rem; }
+        .container { max-width: 720px; margin: 0 auto; background: #fff; border-radius: 12px; padding: 2.5rem 2rem; box-shadow: 0 1px 8px rgba(0,0,0,0.08); }
+        h1 { font-size: 2rem; font-weight: 700; margin-bottom: 0.25rem; }
+        .subtitle { font-size: 0.875rem; color: #64748b; margin-bottom: 2rem; }
+        section { margin-bottom: 2rem; }
+        h2 { font-size: 1.125rem; font-weight: 600; margin-bottom: 0.75rem; color: #0f172a; }
+        p { color: #475569; line-height: 1.7; }
+        ul { list-style: disc; padding-left: 1.5rem; color: #475569; line-height: 1.9; }
+        .footer { border-top: 1px solid #e2e8f0; padding-top: 1.25rem; font-size: 0.8rem; color: #94a3b8; margin-top: 1rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p class="subtitle">Last updated: May 27, 2026</p>
+        <section><h2>1. Introduction</h2><p>Tenaris Silcotub Taxi operates a private internal taxi booking application exclusively for Tenaris Silcotub employees. This Privacy Policy explains how we collect, use, and protect your personal information.</p></section>
+        <section><h2>2. Information We Collect</h2><ul><li>Full name and company email (via Microsoft SSO)</li><li>Personnel number</li><li>Phone number</li><li>Pickup and drop-off location addresses</li><li>Ride scheduling details</li><li>Cost center code for internal billing</li><li>Ride history and status updates</li></ul></section>
+        <section><h2>3. How We Use Your Information</h2><ul><li>To process and manage ride requests</li><li>To assign drivers and notify relevant parties</li><li>To send ride confirmations and status updates via email</li><li>To calculate and split ride costs among participants</li><li>To generate internal reports for cost center billing</li></ul></section>
+        <section><h2>4. Data Sharing</h2><p>Your personal data is only shared within the Tenaris Silcotub organization — with fleet managers, assigned drivers, and ride participants. We do not share data with external third parties.</p></section>
+        <section><h2>5. Data Security</h2><p>All data is stored securely with industry-standard encryption. Access is restricted to authenticated Tenaris Silcotub employees only, using Microsoft SSO.</p></section>
+        <section><h2>6. Data Retention</h2><p>Ride data is retained as long as necessary for internal reporting and billing. You may request deletion by contacting the application administrator.</p></section>
+        <section><h2>7. Your Rights</h2><p>You have the right to access, correct, or request deletion of your personal data. Contact your IT department or HR for such requests.</p></section>
+        <section><h2>8. Contact</h2><p>For questions regarding this Privacy Policy, please contact the Tenaris Silcotub IT department.</p></section>
+        <div class="footer">© 2026 Tenaris Silcotub — Internal Use Only</div>
+    </div>
+</body>
+</html>
